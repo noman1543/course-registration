@@ -1,0 +1,81 @@
+.cards-container {
+    display: flex;
+
+}
+
+.cards {
+    width: 250px;
+    height: 400px;
+
+}
+
+.photo {
+    width: 250px;
+}
+
+.info {
+    display: flex;
+    justify-content: space-evenly;
+    color: rgba(28, 27, 27, 0.60);
+    font-size: 16px;
+    font-weight: 500;
+
+}
+
+.credit {
+    display: flex;
+    gap: 5px;
+
+}
+
+
+.courses-card-container {
+    width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 14px;
+
+
+
+}
+
+.btn {
+    background-color: aqua;
+    width: 240px;
+    height: 40px;
+
+}
+
+.name {
+    color: #1C1B1B;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+
+.time-remaining {
+    color: #2F80ED;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+hr.new1 {
+    border: 1px solid gray;
+}
+
+.course-name {
+    color: #1C1B1B;
+    font-size: 20px;
+    font-weight: 700;
+    ;
+
+}
+
+.list-decimal {
+    list-style-type: decimal;
+}

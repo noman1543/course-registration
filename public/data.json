@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Introduction to OOP Python",
+        "image": "https://i.ibb.co/GcbcXsL/Rectangle-2.png",
+        "icon": "https://i.ibb.co/XS4gPJm/Frame.png",
+        "credit": 1,
+        "price": 15000,
+        "id": 1,
+        "description": "Learn the basics of programming and problem-solving."
+    },
+    {
+        "name": "Database (MySQL",
+        "image": "https://i.ibb.co/gSQh67q/Rectangle-2-1.png",
+        "icon": "https://i.ibb.co/XS4gPJm/Frame.png",
+        "credit": 2,
+        "price": 25000,
+        "id": 2,
+        "description": "Explore the fundamentals of dba design and creative concepts."
+    },
+    {
+        "name": "Introduction to C Programming",
+        "image": "https://i.ibb.co/PzrYFBd/Rectangle-2-2.png",
+        "icon": "https://i.ibb.co/XS4gPJm/Frame.png",
+        "credit": 10,
+        "price": 10000,
+        "id": 3,
+        "description": "Dive into basic concepts of c programming."
+    },
+    {
+        "name": "AWS, Cloud Computing",
+        "image": "https://i.ibb.co/3BM40B4/Rectangle-3-1.png",
+        "icon": "https://i.ibb.co/XS4gPJm/Frame.png",
+        "credit": 5,
+        "price": 35000,
+        "id": 4,
+        "description": "Explore the fundamentals of AWS and creative concepts."
+    },
+    {
+        "name": "Introduction to Algorithms",
+        "image": "https://i.ibb.co/vHGGXXx/Rectangle-2-3.png",
+        "icon": "https://i.ibb.co/XS4gPJm/Frame.png",
+        "credit": 2,
+        "price": 19000,
+        "id": 5,
+        "description": "Build foundation & explore basic algorithm ."
+    },
+    {
+        "name": "Introduction to C++ for DSA",
+        "image": "https://i.ibb.co/p1pDZ5w/Rectangle-2-4.png",
+        "icon": "https://i.ibb.co/XS4gPJm/Frame.png",
+        "credit": 2,
+        "price": 23000,
+        "id": 6,
+        "description": "Learn essential C++ skills and strategies."
+    },
+    {
+        "name": "Software Engineering",
+        "image": "https://i.ibb.co/RCsHs66/Rectangle-2-5.png",
+        "icon": "https://i.ibb.co/XS4gPJm/Frame.png",
+        "credit": 5,
+        "price": 35000,
+        "id": 7,
+        "description": "Explore the ethical implications of Software Engineering."
+    },
+    {
+        "name": "Data structure",
+        "image": "https://i.ibb.co/WnKhwJf/Rectangle-3.png",
+        "icon": "https://i.ibb.co/XS4gPJm/Frame.png",
+        "credit": 5,
+        "price": 19000,
+        "id": 8,
+        "description": "Learn the basics of Data structure."
+    },
+    {
+        "name": "Problem Solving",
+        "image": "https://i.ibb.co/tpLL1Ls/Rectangle-2-6.png",
+        "icon": "https://i.ibb.co/XS4gPJm/Frame.png",
+        "credit": 2,
+        "price": 23000,
+        "id": 9,
+        "description": "Learn the basics of programming and problem-solving."
+    }
+]
